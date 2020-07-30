@@ -6,10 +6,6 @@ public class FreqCount {
 	private int letterCount[];
 	private double percentCount[];
 	
-	public static void main(String[] args) {
-        FreqCount x = new FreqCount();
-		x.analyse("Hello DARKNESS");	
-	}
 	
 	//Runs through all the methods
 	public void analyse(String s) {
