@@ -2,11 +2,6 @@ import java.util.Scanner;
 
 public class Decoder {
 
-	String code = "EFA OBE_HA FBK OA_D IBNGDN BHH JBM G_ EFA JGKEBDRA BDJ _ BP SDBOHA EC\r\n" + 
-			"BKRAIEBGD LFAEFAI BDMEFGDN FBK OAAD NBGDAJ CI DCE. _ FCL G HCDN QCI EFGK LBI\r\n" + 
-			"EC ADJ. FCL G HC_N QCI TABRA. FCL LG_H G FBGH EFA JBM LFAD G IAESID EC EFA OCKCP\r\n" + 
-			"CQ PM QBPGHM. P_ JABI G FCTA EC KAA MCS.";
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Decoder f = new Decoder();
