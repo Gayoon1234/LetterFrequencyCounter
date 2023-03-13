@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Decoder {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Decoder f = new Decoder();
 		f.UserInput();
 		
